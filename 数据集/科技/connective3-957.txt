@@ -1,0 +1,8 @@
+新浪科技北京时间6月11日晚间消息，网络安全公司Okta的CEOToddMcKinnon近日表示，微软正将其所有最好的AI工具和软件的研发外包给OpenAI，这可能对主要竞争对手谷歌有利。
+McKinnon在接受媒体采访时称，随着谷歌正寻求捍卫其在搜索领域的地位，它可能会尽最大努力去研发AI，<cand>而</cand>不会将其外包出去。
+McKinnon<cand>还</cand>指出，<cand>为</cand>当前的生成式AI技术提供动力的Transformer，正是来自谷歌。Transformer是谷歌于2017年开发的早期AI模型。
+McKinnon说：“突破来自谷歌，Transformer是所有这些大型语言模型都在使用的算法。<cand>而</cand>微软在AI领域的地位有可能沦为一家‘咨询公司’。”
+<cand>对此</cand>，微软尚未发表评论。
+当前，微软的一些顶级产品，如生成式AI聊天机器人Copilot和配备生成式AI软件的PC，<cand>都</cand>开始融入OpenAI的技术。
+微软已对OpenAI投入了数十亿美元。有报道称，到目前为止总投资已达到130亿美元。微软曾表示，其投资将加速AI突破，<cand>以</cand>确保这些裨益被世界广泛分享。
+McKinnon称：“这太奇怪了。想象一下在微软工作的情景。OpenAI在那里开发所有令人兴奋的东西，<cand>而</cand>微软就像变成一家咨询公司。”

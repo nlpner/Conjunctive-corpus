@@ -1,0 +1,14 @@
+快科技6月6日消息，在今天的Window11AIPC骁龙产品体验活动中，微软联合高通，<cand>并</cand>携手包括联想、华硕、戴尔、惠普、宏碁以及荣耀在内的PC厂商，<cand>以及</cand>腾讯会议、智谱、RWKV、有道、爱奇艺、字节跳动等合作伙伴，展出了多款Windows11AIPC真机，呈现了骁龙X系列（包括骁龙XElite和骁龙XPlus）在AI、性能和能效方面的优势。
+上个月微软推出了专为AI体验设计的全新WindowsPC品类——Windows11AIPC。这些新型PC<a>不仅</a>运行速度更快、更智能，<a>而且</a>采用了创新的系统架构，包括CPU、GPU和高达40+TOPS运算能力的全新NPU，在设备本地解锁了全新的AI体验，<cand>同时</cand>提供了长效续航，满足用户全天候的使用需求。
+Windows11AIPC还与高通合作，提供了大量Arm64原生应用程序体验，<cand>并</cand>可通过Prism模拟器流畅运行其他应用。
+高通推出的骁龙XElite平台，则<cand>以</cand>其卓越的CPU性能、领先的AI推理能力和高能效PC处理器，显著提升了PC体验。
+该平台采用4纳米制程工艺的定制高通OryonCPU，具备12个高性能内核，<cand>并</cand>通过双核增强提供超快响应。
+集成的AdrenoGPU为用户带来了沉浸式娱乐体验，<cand>而</cand>高通AI引擎的异构计算架构，实现了超过70TOPS的算力，<cand>其中</cand>HexagonNPU的算力更是高达45TOPS，是目前市场上最快的面向笔记本电脑的NPU。
+活动现场，6家厂商展示了10款Windows11AIPC骁龙产品，包括联想ThinkPadT14S、联想YOGAAir14s、华硕无畏Pro15、戴尔XPS13、戴尔Latitude7455、戴尔Inspiron14、惠普EliteBookUltra、微软SurfaceLaptop、微软SurfacePro和宏碁非凡GoProAI。
+这些产品<a>不仅</a>在设计上追求极致轻薄，<a>更</a>在性能上实现了重大突破，<cand>例如</cand>，联想YOGAAir14s骁龙AI元启搭载了高通骁龙XElite处理器，配置32GB高速内存和1TBSSD，续航时间可达24小时，真正实现了高性能与长续航的完美结合。
+华硕无畏Pro152024则是一款大屏AI高能超轻薄本，15.6英寸OLED大屏与轻薄设计相结合，提供了45W的高性能释放和长达18小时的续航能力。
+戴尔Latitude7455和全新DellXPS139345则以其强劲的多线程处理性能和AI硬件支持，<cand>为</cand>用户提供了流畅高效的计算体验。
+<a>此外</a>，惠普EliteBookUltra旗舰AI商务本和微软全新SurfacePro及SurfaceLaptop<a>也</a>以其时尚便携的设计、快速响应的AI功能和超长电池续航，展现了AIPC的强大潜力。
+不仅如此，现场还展示了超过40款应用演示，包括基于终端侧AI的智能体验、面向骁龙平台优化的原生应用、游戏娱乐以及骁龙跨终端技术演示。
+<cand>例如</cand>基于SnapdragonSeamless技术，在搭载第三代骁龙8的荣耀Magic6手机和搭载骁龙XElite平台的PC设备上，即可无缝体验AI视频拍摄剪辑功能。
+用户<cand>还</cand>可以通过自动语音识别技术，从搭载了高通RB5平台的机器人那里要求获取饮料，机器人可以通过搭载骁龙XElite的笔记本电脑上运行的大语言模型与客户聊天，<cand>并</cand>实现为机器人规划的任务，通过在该区域导航并使用机械臂为客户提供饮料。

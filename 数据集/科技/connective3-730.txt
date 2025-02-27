@@ -1,0 +1,5 @@
+IT之家6月4日消息，科技媒体WindowsLatest报道，微软Windows10用户安装今年5月的可选更新KB5037849之后，添加了原本Windows11系统中的移动设备功能，可以<cand>让</cand>用户访问手机上拍摄的照片。
+这个软件包以前是Windows11独占的，<cand>但</cand>现在也可以在Windows10上使用了。
+用户<cand>还</cand>需要登录其Microsoft账号，<cand>但</cand>这项功能不需要设置PhoneLink应用程序。
+连接手机和Microsoft账户<cand>后</cand>，点击"管理设备"启用"获取新照片通知"功能。
+用户手机照片会自动以通知的形式出现在Windows10上，您可以使用剪贴工具打开通知。

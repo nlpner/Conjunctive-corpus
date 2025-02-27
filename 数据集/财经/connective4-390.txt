@@ -1,0 +1,16 @@
+目前，OpenAI估值为860亿美元，转型为营利性公司或加速OpenAIIPO，微软及其他投资者认为，<cand>若</cand>Altman拥有更多股权，可能就不会那么有动力专注于其他项目和投资其他AI公司。
+根据TheInformation最新报道，SamAltman最近告诉一些股东，OpenAI正在考虑将其治理结构转变为一家营利性企业，OpenAI的非营利董事会无法控制该企业。
+Altman<cand>还</cand>表示，董事会正在考虑的一种方案是成立一家营利性福利公司，Anthropic和xAI等竞争对手正在使用这种方案。
+去年，微软在向OpenAI投资130亿美元<cand>后</cand>，发生了董事会解雇Altman的事件，引发了营利部门内部的员工反抗，直到Altman重新受雇后才结束。
+据悉，非营利性质公司受到法律保护，不受少数股东的侵害，<cand>否则</cand>少数股东可能会起诉公司做出不优先考虑股东回报的决策。
+转变为营利性公司<cand>后</cand>，新实体还可以保持与当前OpenAI非营利组织类似的使命——为人类谋福利的AI，<cand>同时</cand>让投资者有机会更快地实现他们投入的140亿美元左右资本的回报。
+目前，OpenAI估值为860亿美元，转型为营利性公司或加速OpenAIIPO；<a>此外</a>，Altman<a>也</a>将有机会拥有更多股份。
+OpenAI一些现有投资者表示，OpenAI上市的压力很小，<cand>因为</cand>它可以继续允许现有员工和其他人通过定期的二次股票发行出售其股票，<cand>例如</cand>SpaceX和Stripe所做的股票发行。去年，OpenAI为员工进行了两次此类发行，共计套现超过8亿美元。
+根据TheInformation报道，多年来一些微软高管一直倾向于将OpenAI转变为一家成熟的营利性公司。
+<cand>其中</cand>一位高管表示，这样的结构可以让这家软件巨头以董事会席位和股东投票权的形式对OpenAI产生更大的影响力。
+据悉，OpenAI营利性组织此前承诺向微软和其他投资者支付其产生的任何利润的一定份额，最高限额将逐年增加。微软在偿还资本投资之前获得OpenAI75%的利润，<cand>并</cand>在一定上限内获得49%的后续利润。
+<cand>此外</cand>，没有任何外部投资者在该非营利组织的八人董事会中占有一席之地，<cand>尽管</cand>微软拥有无投票权的观察员席位。新的转变将取消股东利润上限。
+目前，Altman并不对OpenAI营利部门持有股权，<cand>因为</cand>他希望限制持有股份的董事会成员人数。转型<cand>后</cand>，Altman可能会获得一笔可观的股权。
+微软及其他投资者更希望Altman拥有这样的股权，这样Altman<cand>就</cand>不会那么有动力专注于其他项目和投资其他AI公司。
+除了微软，直接向OpenAI投资的投资者还包括ReidHoffman基金会、KhoslaVentures、YCombinator、YCombinator合伙人PaulBuchheit以及密歇根大学。
+<a>此外</a>，ThriveCapital、SequoiaCapital和FoundersFund等多年来<a>也</a>一直从OpenAI早期投资者以及员工手中购买OpenAI股份。

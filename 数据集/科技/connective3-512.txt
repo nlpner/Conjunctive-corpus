@@ -1,0 +1,2 @@
+微软公司近日宣布，“Recall”的新功能将默认设置为关闭状态。一个月前，微软曾将Recall功能融入旗下全新WindowsPC品类，<cand>并</cand>表示该功能可以自动截取用户电脑屏幕并加以记录，<cand>使</cand>用户能够像查询记忆一样回顾过去的操作。
+“Recall”推出后遭到网络安全专家质疑，<cand>因为</cand>该功能可能会成为黑客的目标。<cand>对此</cand>，微软Windows部门负责人帕万・达瓦卢里（PavanDavuluri）在博客中提到，Windows系统的新人工智能功能“Recall”将默认关闭，除非用户主动选择开启。使用“Recall”功能的用户必须先激活名为WindowsHello的功能，该功能依赖面部或指纹识别或登录PIN码来访问设备。<cand>而且</cand>微软还在努力确保当用户未登录时，Recall功能截取的屏幕快照能够得到加密。

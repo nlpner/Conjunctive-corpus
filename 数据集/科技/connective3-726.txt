@@ -1,0 +1,9 @@
+感谢IT之家网友吾爱317、输入法、软媒新友2010825、Freddy123、吉茵珂絲、华南吴彦祖的线索投递！
+IT之家6月13日消息，微软公司今天面向Canary频道的WindowsInsider项目成员，发布了Windows11Build26236预览版更新。
+IT之家援引微软博客内容，微软短期内不再向开发者分发Canary频道Windows11预览版SDK。
+常规改进和修复，改善Windows11预览版的整体运行体验。
+开始菜单逐步推出新的账号管理器，用户登录微软账户<cand>后</cand>，新的设计可以让用户快速浏览账户的好处，<cand>并</cand>方便管理账户设置。
+修复近期几个预览版中无法显示任务栏的问题。
+修复了MicrosoftEdge浏览器的首选音频音量（在"设置">"系统">"声音">"音量混合器"下）在重启应用程序后无法保持不变的问题。
+微软邀请Canary、Dev和Beta渠道WindowsInsiders，测试MicrosoftStore22405.xxxx.x及更高版本，主要优化MicrosoftWallet，可以实现更快、更安全的结账。
+微软表示用户可以使用MicrosoftWallet在商店中快速轻松地购物。用户<a>不仅</a>可以在商店赚取MicrosoftRewards积分，<a>还</a>可以在结账时轻松将积分兑换成礼品卡，用于购物。钱包快速、安全、易于使用！

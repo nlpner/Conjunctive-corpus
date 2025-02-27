@@ -1,0 +1,8 @@
+IT之家6月13日消息，科技媒体TechCrunch昨日（6月12日）发布博文，表示苹果公司每年都会推出一批“sherlock”应用，<cand>就</cand>是官方下场做某款应用，<cand>和</cand>第三方应用同台竞争。
+《纽约时报》在2019年就披露了苹果的“sherlock”行为，苹果会从规模较小的潜在竞争对手那里挖走员工和技术，整合第三方开发者的创意，<cand>让</cand>第三方应用“无路可走”。
+这个词指的是上世纪90年代末，苹果公司为macOS8发布了一款名为“sherlock”的搜索软件产品，帮助用户在其Mac电脑上查找文件并进行互联网搜索。
+<cand>当时</cand>，一家名为KareliaSoftware的公司已经推出了一款售价29美元的搜索应用，名为Watson，具有插件等功能，可以更好地进行网络搜索。
+苹果于2002年发布了Sherlock3应用程序，其功能与Watson类似，迅速挤压Karelia的应用程序，<cand>因此</cand>苹果推出的新功能，<cand>和</cand>现有的第三方应用具备相同功能，业内就将其称为“sherlock”。
+<cand>当时</cand>苹果公司发布了一款名为“sherlock”的软件产品，帮助用户在其Mac电脑上查找文件并进行互联网搜索。
+Camo：允许用户将iPhone作为网络摄像头，苹果<cand>随后</cand>推出了continuity功能。
+MyTherapy、Pillbox等应用：苹果sherlock了药物记录/提醒功能。

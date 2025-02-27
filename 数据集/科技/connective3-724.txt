@@ -1,0 +1,8 @@
+感谢IT之家网友华南吴彦祖的线索投递！
+IT之家6月5日消息，微软今天发布新闻稿，向参与WindowsInsider项目的Windows10成员开放Beta频道。
+对于有兴趣测试Windows10新功能/新特性的用户，可以打开“设置”>“更新和安全”>“WindowsInsider计划”，<cand>然后</cand>选择Beta频道即可。
+用户进入Beta测试频道之后，微软不会自动将用户设备升级到Windows11。Windows11升级将作为可选项提供，您可以在准备就绪时选择升级。
+用户可以切换到Canary或者Dev频道，<cand>不过</cand>切换到上述两个频道之后会升级到Windows11系统。
+<cand>如果</cand>用户切换到Canary或者Dev频道，会有一段窗口期返回Windows10系统。<cand>不过</cand>该窗口期关闭之后，返回Beta频道或者重新使用Windows10的唯一方法就是重新安装。
+用户无法看到切换Canary或者Dev频道的选项，这两个选项仅适用于Windows11InsiderPreview版本。
+Windows10支持终止日期2025年10月14日保持不变。在您的Windows10PC上加入Beta频道不会改变这一日期。

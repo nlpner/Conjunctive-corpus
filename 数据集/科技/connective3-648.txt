@@ -1,0 +1,8 @@
+IT之家6月13日消息，苹果在macOSSequoia测试版更新中，<cand>为</cand>Safari18浏览器引入了一系列新的功能，<cand>其中</cand>值得关注的就是HighlightsAI功能，可以帮用户更轻松地发现网络信息。
+用户可以在地址栏左侧打开Highlights功能，<cand>并</cand>从中快速调出网站的相关信息，如导航、摘要或快速链接，<cand>以</cand>了解有关人物、音乐、电影和电视节目的更多信息。
+Highlights现阶段仅限于美国地区，尚不清楚苹果何时会扩充到国内。IT之家此前文章中，专门介绍了Highlights功能，感兴趣的用户可以移步阅读。
+苹果Safari18全面升级了阅读器，用户现在只要使用地址栏中的“阅读器”按钮在网站上启用该模式，苹果现在引入了新的自定义选项。
+进入阅读器模式之后用户再次单击该按钮，下拉菜单会让你更改主题（白色、米白色、灰色、黑色），<cand>并</cand>选择你喜欢的字体（Athelas、Charter、Georgia、Iowan、NewYork、Palatino、SanFransisco、Seravek和TimesNewRoman）。
+该下拉菜单<cand>还</cand>能更改文字大小（从50%到300%），<cand>以及</cand>在页面上查找单词或短语的"查找..."选项和隐藏阅读器模式的按钮。
+苹果公司表示，阅读器<cand>还</cand>可以在侧边栏中提供文章摘要和目录，<cand>不过</cand>科技媒体MacRumors实测发现目前并未生效，该功能可能需要借助AppleIntelligence，<cand>而</cand>后者需要今年晚些时候才会推出。
+Safari在页面上嗅探到视频之后，会启用新的视频播放模式，会将媒体放在最前面和中间，这样你就可以在不遮挡视频的情况下调整窗口。它<cand>还</cand>会在叠加中显示系统播放控制，包括画中画，非常实用。

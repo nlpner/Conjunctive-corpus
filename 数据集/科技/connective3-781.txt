@@ -1,0 +1,3 @@
+IT之家6月13日消息，iPhone具有“电量储备”功能，会保留少量电量，<cand>即使</cand>手机关机仍可支持“查找我的iPhone”和NFC解锁等功能。在最新的iOS18系统中，这项功能在iPhone15系列机型上得到了进一步增强。
+根据Reddit用户的展示，运行iOS18的iPhone15电量耗尽<cand>后</cand>，屏幕左上角将继续显示时间，这<a>虽</a>是一项小小的改动，<a>却</a>能带来极大的便利。IT之家注意到，此时电量图标仍会显示，<cand>并且</cand>会显示“查找功能可用”等提示。
+值得注意的是，这项新功能似乎仅限于iPhone15系列机型。Macrumors在iPhone14ProMax上并没有看到电量耗尽后会显示时间，<cand>但</cand>在iPhone15ProMax上则可以正常显示。目前尚不清楚为何不兼容旧款机型，毕竟“电量储备”功能早在iPhoneXR和iPhoneXS上就已存在。

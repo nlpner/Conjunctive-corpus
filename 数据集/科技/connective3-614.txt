@@ -1,0 +1,6 @@
+IT之家6月11日消息，在今天的WWDC2024活动上，苹果宣布了其全新的AI系统“AppleIntelligence”，<cand>并</cand>将在今年秋季登陆iPad、iPhone和Mac平台。<cand>不过</cand>，遗憾的是，该功能似乎存在一些限制，<cand>例如</cand>可能需要加入候补名单才能使用。
+MacRumors发现，iOS18测试版代码显示AppleIntelligence的代号为Graymatter，<cand>其中</cand>还提到了候补名单，<cand>例如</cand>“加入Graymatter候补名单”和“已加入候补名单”。
+<cand>此外</cand>，代码中有一段提到：“<a>由于</a>Graymatter处于有限预览阶段，<a>因此</a>您在不受支持区域使用时可能会遇到异常缓慢的响应速度。”
+综合这些信息，我们可以推测苹果将分阶段测试其AI功能，<cand>以</cand>确保能够满足服务器需求、及时修复漏洞，<cand>不过</cand>目前尚不清楚“有限预览”指的是限制使用人数还是AppleIntelligence测试版最初仅提供部分功能，当然<cand>也</cand>不排除这两种限制同时存在的情况。
+IT之家注：AppleIntelligence有硬件限制，iPhone方面目前只有iPhone15Pro和iPhone15ProMax可以使用。
+所有iPhone16型号都有可能使用AppleIntelligence，<cand>但</cand>至少要到今年9月才能上市。<a>此外</a>搭载苹果M系列的iPad和Mac设备<a>也</a>支持访问AppleIntelligence。

@@ -1,0 +1,15 @@
+IT之家6月4日消息，英特尔在Computex2024台北国际电脑展推出了新一代LunarLake移动处理器。
+LunarLake采用全新的MoP（MemoryonPackage）封装，直接将LPDDR5X内存芯片集成于处理器封装之上，最高支持32GB容量与8.5GT/S速率，<cand>可</cand>节约40%的PHY功耗与250mm²面积。
+<cand>此外</cand>，LunarLake延续了MeteorLake首发的Foveros3D封装技术，将前代的CPUTile、GraphicsTile、SOCTile与IOETile简化为ComputeTile与PlatformControllerTile。
+<a>此外</a>，LunarLake的CPU部分<a>还</a>引入了全新的调度机制，加强与系统和OEM之间的协同，<cand>并</cand>将在负载满足的前提下优先调用E核。
+与MeteorLake不同，本次LunarLake的下一代Xe2核芯显卡<cand>也</cand>集成于ComputeTile之中，<cand>可</cand>实现1.5倍于MTL核显的性能、最高67TOPS算力。
+<a>无论</a>是与MeteorLake-H还是MeteorLake-U芯片相比，LunarLake的全新Xe2核显<a>都</a>能在更低功耗的情况下提供更高的性能。
+<a>此外</a>，MediaEngine媒体引擎<a>也</a>得到了升级，支持AV1编解码与VVC解码，提供1xeDP1.5、DisplayPort2.1与HDMI2.1三条显示输出管线。
+LunarLake本次<cand>还</cand>带来NPU4，<cand>可</cand>提供至高48TOPSAI算力，相比MeteorLake中的NPU3，具有2倍能效比与4倍的峰值性能。
+全面升级<cand>后</cand>，LunarLake的总平台AI算力最高达120TOPS（IT之家注：GPU67TOPS+NPU48TOPS+CPU5TOPS）。
+<a>此外</a>，<a>还</a>支持英特尔Unison多设备协同与近期推出的ThunderboltShare软件。
+全新的MoP内存封装可节约最高40%的PHY功耗，配合新的电源架构、改进的E核集群设计、8MBmemorysidecache，相比前代产品可节约最高40%的SoC功耗。
+英特尔LunarLake移动处理器的P核、E核、核显、NPU全部获得了大幅度升级，<cand>还</cand>支持VVC解码，带来全新的MoP内存封装及PMIC等众多优化。
+据介绍，目前已有20余家合作伙伴的80余款设计将会搭载LunarLake处理器。
+<cand>此外</cand>，英特尔已经与上百家软件企业与供应商达成合作，共有超过500款AI模型为LunarLake处理器优化。
+<a>此外</a>，英特尔<a>还</a>将基于LunarLake处理器推出AI开发者套件。

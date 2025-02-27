@@ -1,0 +1,5 @@
+微软宣布推出Automaticsuperresolution（AutoSR），AutoSR是首个在操作系统当中集成的AI超分辨率技术，属于驱动程序级别的替代方案。
+微软宣布，推出Automaticsuperresolution（AutoSR）。与微软上周发布的DirectSR预览版不同，AutoSR是首个在操作系统当中集成的AI超分辨率技术，属于驱动程序级别的替代方案，实际上是作为FSR、DLSS和XeSS的替代方案出现的。<cand>不过</cand>目前微软表示该技术仅有11款游戏确认首发支持，<cand>而且</cand>暂时只支持高通骁龙X系列芯片，这是由于该技术需要调用NPU进行计算。
+微软表示，AutoSR通过AI技术来提高帧速率和图像质量，自动美化现有游戏，提供更高的帧率且不会影响视觉效果，能增强搭载骁龙X系列处理器的CoPilot+PC游戏体验。AutoS的设备要求包括配备骁龙X系列处理器、HexagonNPU和集成GPU的Copilot+PCWindows1124H2或更高版本；最新的图形和神经处理器驱动程序；显示分辨率为1080P或更高；最新版本的AutoSuperResolutionPackage。
+AutoSR的工作方式类似于NVIDIAImageScaling（NIS）和AMDRadeonSuperResolution（RSR），<cand>但</cand>该技术并<a>不是</a>单独适用于某一厂商的硬件（尽管目前确实是这样），<a>而是</a>在系统层级进行运行。<cand>也就是说</cand>，AutoSR与NIS和RSR有着相同的集成复杂性（对于游戏开发人员来说没有），可以跨供应商的硬件工作，不需要安装任何额外的软件。微软通过DirectSRAPI为游戏开发者提供了一种更加高效、便捷的超分辨率解决方案，只不过仍然需要进行必要的设置。对于那些不会升级支持超分辨率技术的游戏来说，AutoSR就提供了对应的选择。
+AutoSR协调了CPU、GPU和NPU之间的工作负载，有效减轻了超分辨率任务的负担，或许未来<cand>还</cand>会支持英特尔酷睿Ultra200系列和AMD锐龙AI300系列这类配有NPU的处理器。未来微软<cand>还</cand>打算为AutoSR引入更多的功能，包括增加对HDR内容和多显示器的支持。

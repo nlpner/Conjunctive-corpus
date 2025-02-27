@@ -1,0 +1,9 @@
+快科技6月4日消息，苹果最新通过官方公众号向大家发布了WWDC24邀请，将于北京时间6月11日凌晨1点正式开始，号称“猛料加载中”。
+据了解，本次大会苹果将发布新一代iOS18、iPadOS18、macOS15、tvOS18以及watchOS11、visionOS2操作系统。
+<cand>其中</cand>，最受消费者关注的还是iOS18。
+爆料称，iOS18可能会加入生成式AI技术，成为苹果史上升级幅度最大的版本之一。
+根据传闻，iOS18中的Siri会带来大幅提升，能够帮助用户完成更多操作，<cand>并且</cand>主动提供帮助，<cand>此外</cand>还能完成一些创作任务。
+需要注意的是，国内的AI服务可能会接入百度文心一言来实现。
+知名科技记者MarkGurman曾表示，苹果内部将iOS18视为有史以来最重要的升级。
+根据MacRumors曝光的升级机型名单，iOS18将支持24款机型升级，与iOS17保持一致。
+iPhone15系列、iPhone14系列、iPhone13系列、iPhone12系列、iPhone11系列、iPhoneXS、iPhoneXSMax、iPhoneXR以及iPhoneSE2和iPhoneSE3等设备会支持iOS18。

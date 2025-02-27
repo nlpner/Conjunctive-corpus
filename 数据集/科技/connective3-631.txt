@@ -1,0 +1,14 @@
+【TechWeb】6月11日消息，苹果在WWDC24开发者大会上，苹果正式发布了个人化智能系统——AppleIntelligence，AppleIntelligence将生成式AI模型置于iPhone和iPad的核心中，根据个人的情境来提供智能的协助。
+<cand>同时</cand>，苹果宣布与OpenAI合作，在系统中加入了ChatGPT来实现更丰富的AI功能等。
+<cand>其中</cand>，苹果将Siri变成使用外部模型的入口，这些外部模型的能力全部融入用户的使用体验中。苹果首选了GPT-4o作为外部大模型之一。
+苹果Siri能免费调用ChatGPT，<cand>还</cand>能关联GPT-4o。苹果用户不必创建账户就可以免费使用ChatGPT，ChatGPT订阅用户<cand>也</cand>能关联自己的账户，<cand>并</cand>在苹果设备中使用相关产品时接入付费功能。
+<cand>另外</cand>，苹果宣布ChatGPT也将集成在iOS18、iPadOS18和macOSSequoia中，<cand>并</cand>于今年稍晚推出。
+事实上，要用上这些最新的苹果AI能力，门槛<cand>也</cand>不低。根据苹果公开的信息，这些AI能力目前仅支持iPhone15Pro、配备M1芯片的iPad和Mac以及后续机型。
+值得一提的是，OpenAICEO萨姆·阿尔特曼当天也亲自来到了苹果WWDC现场，<cand>为</cand>苹果和OpenAI的合作站台。
+对于苹果和OpenAI的合作，特斯拉创始人马斯克表达了不满和愤怒。
+马斯克在X平台发文称，<cand>如果</cand>苹果在操作系统层面集成OpenAI，他的公司将禁止使用苹果设备。这是不可接受的安全违规行为。
+马斯克还说：“这是非常荒谬的，苹果没有足够的能力开发自己的人工智能，<cand>但</cand>却能确保OpenAI能保护你的安全和隐私！苹果完全不清楚把你的数据交给OpenAI后会发生什么，他们这么做完全是在出卖用户。”
+OpenAI最早是由马斯克、美国创业孵化器YCombinator总裁萨姆·奥特曼、全球在线支付平台PayPal联合创始人彼得·蒂尔等硅谷科技大亨于2015年12月11日创立的非营利性组织。2019年，<cand>因为</cand>持续烧钱经营困难，OpenAI从非营利组织转变为“利润上限（capped-profit）”模式，<cand>并</cand>在当年获得微软10亿美元投资。
+作为OpenAI曾经的发起人之一，马斯克和OpenAI的矛盾在今年3月全面爆发。<cand>当时</cand>，马斯克向旧金山高等法院提起诉讼，<cand>以</cand>违反合同为由起诉OpenAI及其CEO萨姆·奥特曼。
+<cand>而</cand>马斯克<a>之所以</a>起诉OpenAI及其CEO萨姆·奥特曼，<a>是因为</a>他认为奥特曼和OpenAI违背了这家AI研究公司成立时达成的一项协议——开发技术造福人类，而非为了利润。2023年3月发布的ChatGPT，标志着与OpenAI原则的重大背离。GPT-4是一个闭源模型，这违反了开源精神，此举是出于商业目的，而非人类利益。
+马斯克对OpenAI提出了包括违约、违反信托义务和不公平商业行为在内的指控，<cand>并</cand>要求该公司恢复开源。

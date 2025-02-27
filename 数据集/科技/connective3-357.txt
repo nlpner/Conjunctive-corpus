@@ -1,0 +1,8 @@
+【CNMO科技消息】6月6日，微软携手高通及众多业界领先的OEM厂商（包括联想、华硕、戴尔、惠普、宏碁以及荣耀），以及ISV合作伙伴（如腾讯会议、智谱、RWKV、有道、爱奇艺、字节跳动等），共同在北京微软新视界举办了一场别开生面的Windows11AIPC骁龙产品鉴赏会。此次活动<a>不仅</a>展示了即将于6月18日上市的搭载骁龙X系列平台的Windows11AIPC真机，<a>更</a>通过一系列技术演示和应用体验，全面呈现了骁龙X系列（包括骁龙XElite和骁龙XPlus）在AI、性能和能效方面的卓越优势。
+据CNMO了解，活动现场展示了6家厂商的10款Windows11AIPC骁龙产品，包括联想ThinkPadT14S、联想YOGAAir14s、华硕无畏Pro15、戴尔XPS13、戴尔Latitude7455、戴尔Inspiron14、惠普EliteBookUltra、微软SurfaceLaptop、微软SurfacePro和宏碁非凡GoProAI。
+微软5月20日正式推出了专为AI体验而设计的全新WindowsPC品类——Windows11AIPC。这款PC<a>不仅</a>更快、更智能，<a>而且</a>采用了全新的系统架构，集成了CPU、GPU和可实现40+TOPS运算的全新NPU，<cand>为</cand>用户带来前所未有的性能表现。Windows11AIPC在设备本地解锁了一系列全新AI体验，包括“回顾”（Recall）、增强的Windows工作室效果、实时字幕等，极大地提升了用户的生产力、创造力和沟通效率。
+<cand>此外</cand>，所有Windows11AIPC均采用了安全核心PC（Secured-corePC）技术，默认启用了MicrosoftPlutonSecurity处理器，<cand>并</cand>引入了多项新功能、更新和默认设置，<cand>以</cand>确保用户隐私数据的安全。
+作为Windows11AIPC的核心动力，高通在2023年10月推出了骁龙XElite平台。该平台采用定制的集成高通OryonCPU，采用4纳米制程工艺，拥有12个高性能内核，确保在每瓦特性能方面保持领先。集成的AdrenoGPU为用户带来出色的图形性能，带来沉浸式的娱乐体验。
+骁龙XElite平台更是一款专为AI打造的平台。其搭载的高通AI引擎具有领先的异构计算架构，HexagonNPU、AdrenoGPU和OryonCPU等共同实现超过70TOPS的算力，<cand>为</cand>用户提供前所未有的智能体验。
+在Windows11AIPC的生态系统建设方面，腾讯应用宝与MicrosoftStore达成合作，共同推动移动内容在Windows平台上的无缝体验。用户现在可以在MicrosoftStore专区下载并安装腾讯应用宝的移动应用，享受原生般的移动应用体验。
+Windows11AIPC的推出标志着PC行业进入了一个全新的智能时代。微软、高通以及众多合作伙伴的共同努力，<cand>为</cand>用户带来了更快、更智能、更安全的全新PC体验。未来，我们期待Windows11AIPC能够持续创新，<cand>为</cand>用户带来更多惊喜。

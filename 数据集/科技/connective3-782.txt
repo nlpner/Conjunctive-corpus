@@ -1,0 +1,7 @@
+IT之家6月5日消息，CHEERY樱桃于Computex2024台北国际电脑展推出多款轴体，包括首次搭载电感式方案的MXMultipoint。
+据介绍，MXMultipoint是樱桃首款电感式模拟轴体，提供三种型号可选，将于2025年早些时候正式上市。
+三款MXMultipoint轴体均拥有4mm键程，支持自定义触发键程，点击寿命超2亿次，<cand>并</cand>经过出厂润滑。
+搭载MXMultipoint轴体的Ducky与阿米洛键盘正于本届台北电脑展展出。
+MXSilentClear(MX2A-J1NB)是一款静音段落轴，与Ducky联合推出，具有1.9mm触发键程与3.7mm总键程、55cN触发力度，搭载最新的MX2A特性并经出厂润滑。
+MXOrange(MX2A-LC3W)最初由日本广濑电机生产，现面向键盘发烧友推出，提供45cN触发力度、2mm触发键程与4mm总键程，<cand>同样</cand>搭载MX2A特性并经过出厂润滑。
+樱桃<cand>还</cand>推出了其第二代矮轴产品，型号为MX2B-XXXX，将提供红轴、速度银轴、专为办公场景打造的Ivory轴与段落感的Clear轴体，更多信息将于晚些时候提供。

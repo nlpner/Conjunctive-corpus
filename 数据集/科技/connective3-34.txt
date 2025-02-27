@@ -1,0 +1,4 @@
+IT之家6月4日消息，ModRetro推出Chromatic复古掌机，基于FPGA方案，<cand>可</cand>兼容GameBoy、GameBoyColor及专属Chromatic卡带，预售价199美元（IT之家备注：当前约1443元人民币）。
+ModRetroChromatic采用一块分辨率与原版相同的2.56英寸160x144IPSLCD屏幕，机身使用镁合金机身与蓝宝石玻璃盖板搭载，提供六款配色可选。
+连接性方面，该掌机支持USB-C视频输出，<cand>同时</cand>兼容原版GameBoy的有线与IR红外连接；使用3节AA电池供电，届时将提供兼容的锂电池包。
+值得注意的是，本次预售的掌机将免费赠送《俄罗斯方块》Chromatic卡带，官方预计首批订单将于2024年圣诞季开始发货。

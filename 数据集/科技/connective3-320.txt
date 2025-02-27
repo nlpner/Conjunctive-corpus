@@ -1,0 +1,6 @@
+【CNMO科技消息】6月3日，在Computex2024上，ROG发布新款ROG幻16Air专业性能轻薄本。
+ROG幻16Air配备最新AI硬件，加速AI端侧功能落地。其搭载AMD锐龙AI9HX370处理器，由全新Zen5架构打造，12核心24线程，内置锐龙AIXDNA2NPU，<cand>可</cand>提供高达50TOPS的AI性能，CPU及Radeon890M核显<cand>还</cand>可额外提供31TOPS算力，<cand>可</cand>大幅加速WindowsCopilot、Recall、Cocreator等AI软件的运行效率，<cand>为</cand>用户带来便捷的工作体验。
+图形性能上，幻16Air最高可选配NVIDIAGeForceRTX4070笔记本电脑GPU，105W高性能释放，能提供高达321TOPS的AI算力，结合锐龙AI9处理器，整机总算力更是突破402TOPS。强大的AI性能和离线本地算力，<cand>可</cand>为图片和视频编辑、LLM大模型搭建、AI编程等工作提供强效助力，<cand>并</cand>可有效保护用户隐私。<cand>另外</cand>，幻16Air内置冰川散热架构3.0，包括三枚绝尘风扇和新型纤维散热管，<cand>并</cand>在CPU上涂抹暴力熊液金，确保了高负荷运行下的系统稳定性。
+新款ROG幻16Air采用CNC一体成型机身，整机轻约1.85kg，薄至14.9mm。屏幕采用16英寸的ROG星云屏，拥有16:10横纵比、2.5K高分辨率和240Hz高刷新率，<cand>无论</cand>是日常使用还是进行内容创作，<cand>都</cand>能提供极致的视觉体验。<cand>并且</cand>采用率先支持NVIDIAG-SYNC防撕裂技术的OLED面板，支持VESADisplayHDRTrueBlack500，<cand>为</cand>用户带来出色的HDR观影体验，黑的通透，美得真实。
+在存储方面，该机配备了高达32GB的LPDDR5X-7500MHz内存，1TBPCIe4.0SSD。预留第二个M.22280扩展接口，支持扩展至更大存储空间及组建RAID0。
+<a>此外</a>，ROG幻16Air<a>还</a>搭载了类瓷感背光键盘，键程达1.7mm，支持AURARGB神光同步，按压音量小于30dB。

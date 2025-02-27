@@ -1,0 +1,17 @@
+AppleVisionPro用户能够轻松快捷地找出自己最爱的空间照片，使用全新的Passwordsapp管理自己的全部帐户，访问Safari浏览器中的全新隐私工具，<cand>并</cand>体验正念等热门app中的新功能。
+近日，苹果发布了visionOS2预览版，这是对AppleVisionPro作出的一次重大更新，将推出可供用户利用图库中现有图像制作空间照片的强大功能、轻松一览重要信息的直观手势，以及Mac虚拟显示器、旅行模式和客人用户等新功能。在经过重新设计的照片app中，AppleVisionPro用户能够轻松快捷地找出自己最爱的空间照片，使用全新的Passwordsapp管理自己的全部帐户，访问Safari浏览器中的全新隐私工具，<cand>并</cand>体验正念等热门app中的新功能。
+凭借超过2000款专为AppleVisionPro打造的空间app，<cand>以及</cand>超过150万款兼容的iOS和iPadOSapp，visionOS2<cand>为</cand>开发者提供进一步发挥空间计算优势的新工具，<cand>也</cand>简化了打造更具视觉立体感且宜于共享的全新app体验的流程。
+“对于用户和开发者而言，AppleVisionPro都带来了革命性的体验。<cand>就</cand>在发售该产品短短几个月后，我们无比激动地凭借visionOS2推动空间计算继续向前迈进，”AppleVisionProductsGroup副总裁MikeRockwell表示，“从更无缝的visionOS导览，到用户重温回忆方式的拓展，<cand>再</cand>到AppleVisionPro上关键app体验的提升，我们迫不及待地想要让用户去亲身体验visionOS2带来的众多新功能。凭借一系列可供开发者打造更丰富的空间app的强大工具，visionOS2将进一步发挥出VisionPro的威力。”
+AppleVisionPro上的空间照片能够为与亲朋好友共度的珍贵时刻增添惊人的立体维度和栩栩如生的真实感。在visionOS2的加持下，用户可以直接基于照片app中的图库创建空间照片，重温往昔回忆。借助先进的机器学习技术，visionOS能够将二维图片转化为精美绝伦的空间照片，在VisionPro上呈现出栩栩如生的效果。用户可以将空间照片分享给所爱之人，在VisionPro上查看，<cand>也</cand>可以用空间自影像在照片app中通过同播共享观赏全景照片、空间视频以及更多内容——就好像所有人都位于同一物理空间中一样。
+使用AppleVisionPro和iPhone15Pro机型拍摄空间视频，用户能够逼真重现和重温生活中的非凡时刻，<cand>就</cand>如同真的回到了过去。今年晚些时候，佳能将为其广受欢迎的EOSR7数码相机推出全新的空间镜头，这款镜头即便在不够理想的照明条件下依然能够拍摄出绚丽夺目的空间视频。即将推出的FinalCutPro更新将支持内容创作者在Mac上编辑空间视频，<cand>并</cand>为其项目添加沉浸式字幕和特效。<cand>而</cand>在专为AppleVisionPro设计的Vimeoapp中，用户将拥有上传和分享空间视频，供他人发现和观看的功能。
+通过visionOS推出的革命性空间交互界面，用户仅凭眼、手和语音就能进行操控。visionOS2加快和简化了AppleVisionPro的导览体验，用户可以使用新手势访问关键功能，快捷方便地调用主屏幕视图和控制中心等常用功能。通过新手势，用户可以快速一览当前时间、电量等重要信息，<cand>还</cand>可进行音量调节等操作。
+AppleVisionPro生产力工具在visionOS2中被赋予新功能。今年晚些时候，Mac虚拟显示器将推出分辨率更高、尺寸更大的规格——创造出相当于两台4K显示器并排放置的超宽屏显示体验。<cand>为了</cand>打造理想的工作空间，visionOS2还添加对鼠标的支持，以便提供额外的工作流选项，AppleVisionPro现在还可显示用户的实体妙控键盘——即便用户正处于全沉浸式环境或app中。
+AppleVisionPro的关键体验在visionOS2中得到增强。用户<cand>如今</cand>可以对自己的主屏幕视图进行自定义，重新安排并随心放置app的位置，包括兼容的iPhone和iPadapp。旅行模式增加对火车场景的支持，旅行中的用户可以使用自己喜爱的app，<cand>甚至</cand>进入“海滩”等环境，改变自己所处的物理环境。当用户想要分享自己的AppleVisionPro<cand>时</cand>，可将家庭成员或同事添加为客人用户，<cand>并</cand>在30天内保存他们的眼部和手部数据。
+开发者已经为AppleVisionPro打造出许多惊艳的app体验，在形形色色的app类别中发挥出空间计算的独特优势。visionOS2中纳入有助于开发者进一步提升其app的新API和框架，简化了更具视觉立体感的app和游戏的制作，<cand>并</cand>引入宜于共享的新体验。HealthKit<cand>也</cand>登陆了visionOS，<cand>为</cand>开发者提供充分利用visionOS的无边画布，打造创新型健康和健身体验的新方式。
+“TheMuseumThatNeverWas”app的开发者1640LLC正借助visionOS2中的全新视觉立体化API，<cand>以</cand>更便利的方式将更多沉浸式3D对象添加至他们的app中，创造出可供用户与其内容进行交互的全新途径。TabletopKit等新工具能够帮助开发者快速构建出以桌面为中心的共享和协作式app体验，<cand>例如</cand>桌游或制造工作台。GRLGames正在利用TableTopKit创作《HauntedChess》。这是一款以谋杀谜案为主题的桌游，在游戏中，玩家可使用3D国际象棋棋子和全息卡片破解谜题。这些app都能够通过与空间自影像的良好结合，创造出过去完全无法实现的共享体验。
+企业开发者已经在打造业界一流的visionOSapp，应用场景涵盖从培训和模拟，到项目设计和管理的方方面面。得益于visionOS2中新工具的加持，开发者能够将功能延展到医疗护理、制造、航空航天、汽车以及其他行业。包括ScanditAG和TeamViewer在内的开发者正在利用BarcodeScanning和ObjectTracking这样的新API助力组织进一步改善日常运营。
+AppleImmersiveVideo是一种借助8K3D视频与180度视域和空间音频的配合，让观众身临其境的叙事形式。今年晚些时候，BlackmagicDesign将发布旗下首款商业摄影机系统，<cand>并</cand>对其后期制作软件DaVinciResolveStudio进行更新，<cand>以</cand>支持AppleImmersiveVideo，<cand>为</cand>全球各地的专业影视制作人提供利用这一令人格外沉浸的叙事方式创作奇妙故事的工具。
+在使用Safari浏览器<cand>时</cand>，用户可以在“环境”中观看视频。在滚动浏览网页<cand>时</cand>，用户可以轻点全景照片，<cand>然后</cand>在全景图片的包裹下尽情沉浸。当用户在同时处理多项任务<cand>时</cand>，Siri可以阅读网页上的内容并进行朗读。
+<cand>为了</cand>帮助用户达到平静、专注的目的，正念app推出名为“FollowYourBreathing”的新功能，<cand>可</cand>通过呈现动态视觉动画和声效的形式对用户的呼吸模式作出回应。
+全系统实时字幕能够帮助包括听力受损用户在内的所有用户理解实时交谈和app中的音频对话。
+用户可以在AppleVisionPro中观看来自iPhone、iPad或Mac的隔空播放内容。

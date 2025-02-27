@@ -1,0 +1,10 @@
+北京时间6月5日晚间消息，昨日，在OpenAI的ChatGPT宕机期间，谷歌Gemini的全球搜索量飙升至327058次，主要<cand>因为</cand>用户纷纷寻找替代方案。
+该数据源自QRCodeGenerator公司的一项分析。其研究人员<cand>还</cand>发现，Gemini搜索量的激增，与同一时期人们搜索“ChatGPTdown”（ChatGPT宕机）的数量有关。6月4日上午，这两个关键词的搜索量呈平行走势。
+网站运行状态监测公司DownDetector称，ChatGPT的第一批中断报告发生在伦敦时间6月4日凌晨8点之前。这促使人们转向谷歌，<cand>以</cand>满足他们对生成式AI的需求。在此期间，谷歌的替代产品Gemini见证了搜索量的显著增长。
+一般情况下，世界各地的人们每天会搜索204991次“Gemini”。该数据基于2024年5月4日至6月3日期间的日均搜索量。<cand>而</cand>ChatGPT一宕机，“Gemini”的搜索量就增加了近60%。
+<cand>由于</cand>ChatGPT宕机，Gemini成为了一个热门话题，以及主要的生成式AI的替代方案。在ChatGPT中断仅4小时<cand>后</cand>，Gemini在全球的搜索热度飙升至327，058次。
+<a>与此同时</a>，“MicrosoftCopilot”（微软Copilot）和“ChatGPTAlternative”（ChatGPT替代品）的搜索量<a>也</a>有所增加。
+根据谷歌过去一个月的趋势数据，“MicrosoftCopilot”每天的搜索量一般为11090次。<cand>而</cand>6月4日，这一数字增加了50%，达到16677次。
+<cand>同时</cand>，在ChatGPT宕机后的前几个小时，有11000人搜索“ChatGPTAlternative”，<cand>而</cand>此前日均搜索量约为898次。尽管如此，这两个关键词的搜索量都明显低于“Gemini”。
+QRCodeGenerator公司CEOMarcPorcar对此表示：“谷歌一直在做出令人难以置信的努力，争取将自己打造成OpenAI生成式AI的主要竞争对手。<cand>如今</cand>所发生的一切，让我们看到了明确的信号。ChatGPT宕机和Gemini搜索量激增之间存在明显的平行趋势，这一事实表明，人们认为Gemini是ChatGPT的明显替代品。在ChatGPT缺席的情况下，人们显然会转向Gemini。”
+2022年11月，OpenAI发布了ChatGPT，<cand>如今</cand>已发展成为领先的生成式AI聊天机器人，在全球拥有约1.8亿活跃用户。2023年底，谷歌发布了Gemini，作为LaMDA和PaLM2的继任者。<cand>当时</cand>，谷歌母公司Alphabet称，GeminiUltra在一系列文本和多模式功能上表现优于GPT-V4。

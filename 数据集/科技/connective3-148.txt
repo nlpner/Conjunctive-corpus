@@ -1,0 +1,10 @@
+本次展会上，MediaTek推出两款芯片产品，面向高阶Chromebook的Kompanio838移动计算芯片，<cand>以及</cand>面向4K高阶智能电视和显示设备的Pentonic800智能电视芯片，两款产品具有优异性能和AI运算能力。
+【PChome中国台北报道】2024台北电脑展（Computex2024）于6月4日至6月7日在中国台北举行，PChome电脑之家特派记者团从展会现场发回报道。
+本次展会上，MediaTek推出两款芯片产品，面向高阶Chromebook的Kompanio838移动计算芯片，<cand>以及</cand>面向4K高阶智能电视和显示设备的Pentonic800智能电视芯片，两款产品具有优异性能和AI运算能力。
+MediaTekKompanio838移动计算芯片搭载高效的八核CPU，拥有出色性能和多任务处理能力，<cand>可</cand>为轻薄的Chromebook产品提供全天电池续航时间。Kompanio838集成AI处理器NPU650，<cand>以</cand>高能效特性支持Chromebook产品所需的AI增强功能，提升用户互动和多媒体体验。Kompanio838支持DDR4和LPDDR4X内存，满足设备制造商更广泛的产品设计需求。与前代产品相比，Kompanio838内存带宽增加了一倍，<cand>可</cand>提供更高的数据吞吐量。
+该芯片内置Imagiq7系ISP影像处理器，提供高品质HDR成像效果，支持双摄像头和暗光拍摄功能，<cand>可</cand>在不同光照环境下提供清晰的图像画质。
+Kompanio838支持AV1硬件视频解码，帮助用户无缝、高速地传输4K流媒体内容。<cand>此外</cand>，该芯片支持双4K显示，<cand>为</cand>用户提供更多内容显示空间。Kompanio838<cand>还</cand>支持MediaTekFilogicWi-Fi6和Wi-Fi6E无线连接技术，<cand>可</cand>为Chromebook带来高达1.9Gbps的网络连接速率，<cand>同时</cand>支持2x2天线和WPA3，<cand>可</cand>提供更稳定可靠的连接和安全性。
+谷歌ChromeOS副总裁暨谷歌教育总经理JohnSolomon表示：“MediaTekKompanio838在性能与功耗的出色平衡，<cand>为</cand>Chromebook带来关键的创新，有助于我们将性能强劲、经济且易用的计算体验带给全球消费者。与MediaTek合作，我们将共同<cand>为</cand>用户带来具备实用AI功能的轻薄型Chromebook。”
+联想智能设备集团全球创新中心Chromebook业务执行总监暨总经理张晋贤表示：“<cand>只要</cand>掌握好的设备和解决方案，学习即可随时随地。我们期待搭载Kompanio系列芯片的新一代联想Chromebook能够迎接市场对多任务处理和高能效日益增长的需求，<cand>为</cand>学生和教师助力，增强课堂内外学习效果。”
+MediaTekPentonic800智能电视芯片提供出众的视频、音频和游戏体验。该平台适用于各类4K显示设备，包括智能电视、智能监视器、商用显示等大屏应用。与上代产品相比，Pentonic800内置AI处理器的性能提升了50%，内存带宽占用至高可降低60%。性能强劲的AI处理器支持多种AI画质增强技术，包括AI超分辨率（AI-SR3.0）、AI-Contrast2.0、AI场景识别画质监测（AI-PictureQualitySceneRecognition2.0+）和AI物体识别画质增强（AI-PictureQualityObjectRecognition2.5+）。这些技术显著增强了显示设备的画质，减少画面噪点，<cand>并</cand>为流媒体和游戏提供多种增强功能。<cand>为</cand>进一步优化游戏体验，Pentonic800支持4K或2K165Hz的可变刷新率（VRR）。
+Pentonic800的硬件视频解码引擎支持HEVC、AV1、AVS3高画质规范(HighProfile)和VVC（H.266）等主流格式，提供高品质4K视频播放效果。该芯片<cand>还</cand>支持MEMC、TCON和高解析度音频方案。设备制造商可以灵活地集成MediaTekFilogicWi-Fi无线连接解决方案，<cand>以</cand>提供高速、低延迟和可靠的网络连接。<cand>此外</cand>，FilogicWi-Fi/蓝牙组合解决方案提供屏幕和外设（包括游戏控制器和无线耳机等）间的无缝连接。

@@ -1,0 +1,4 @@
+IT之家6月5日消息，FreeBSD14.1-RELEASE是14-STABLE分支的最新维护版本更新，在改善后台性能、提高稳定性、修复BUG之外，主要升级了OpenZFS并改善了音效。
+FreeBSD14.1-RELEASE引入了FreeBSD15开发过程中的一些修复内容，<cand>并</cand>带来了其它相关改进，<cand>例如</cand>日期程序现在支持纳秒（nanoseconds），更新OpenSSH、设备驱动和其他应用程序，升级OpenZFS文件系统驱动程序（OpenZFS2.2.4）等等。
+FreeBSD14.1的C库在AMD64上对字符串和内存操作进行了SIMD实现，进一步提高了性能，<cand>此外</cand>新版本改进了声音子系统，更好支持声音设备热插拔。
+IT之家附上相关链接，<cand>如果</cand>用户想要了解有关FreeBSD14.1-RELEASE的下载和更多详细信息，请访问FreeBSD.org。

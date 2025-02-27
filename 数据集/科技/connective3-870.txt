@@ -1,0 +1,16 @@
+新浪科技讯6月7日下午消息，苹果公司今日揭晓年度Apple设计大奖获奖者。WWDC24（苹果全球开发者大会）期间，来自世界各地的开发团队因出众设计、技术成就和创新精神获奖，14款App与游戏获奖作品从42款入围作品中脱颖而出。本届设计大奖设立七个类别，包括乐趣横生类、多元包容类、创新思维类、出色互动类、社会影响类、视觉图像类和全新的空间计算类，每个类别都对一款App和一款游戏进行表彰。
+乐趣横生类获奖作品侧重为用户提供情绪的价值和体验。获奖的App和游戏分别为来自IsuruWanasinghe（澳大利亚）的“小熊感恩日记”和来自TheNewYorkTimesCompany（美国）的NewYorkTimesGames。“小熊感恩日记”通过界面的设计增强用户幸福感，NewYorkTimesGames导航设计的美观和游戏可玩性给用户带来较好体验。
+该类别奖项的入围作品包括：由SillyLittleApps，LLC出品的DudelDraw、由SunblinkEntertainmentLLC出品的HelloKittyIslandAdventure、由Things，Inc.出品的Rooms，以及由TribandApS出品的WHATTHECAR？。
+多元包容类的获奖作品侧重对背景多元、能力各异、语言不同的用户提供支持。获奖App和游戏分别为来自AYES（比利时）的“Oko”和来自RedGamesCo。（美国）的CrayolaAdventures。Oko利用旁白和动态字体等Apple技术，通过触觉和音频反馈告知行人当前路口信号灯的变化，<cand>为</cand>视力受损的用户提供帮助；冒险游戏CrayolaAdventures为玩家提供创意空间，通过自由塑造游戏角色、装饰、解谜和读故事书等活动获得体验。
+该类别奖项的入围作品包括：由Elsevier出品的CompleteAnatomy2024、由Kovalov出品的quadline、由tiimoApS出品的Tiimo，<cand>以及</cand>由HumbleBundle出品的Unpacking。
+创新思维类获奖作品侧重对Apple技术的创新运用打造新体验。获奖App和游戏分别为来自Procreate（澳大利亚）的ProcreateDreams和来自HAppyJuiceGames（以色列）的LostinPlay。设计工具ProcreateDreams内含画笔、手势，支持PencilKit，<cand>可</cand>帮助创建2D动画，支持多点触控交互和ApplePencil，<cand>还</cand>支持动画效果、音频和视频功能；LostinPlay这款点触式探险游戏的手绘画面较为细致，可玩性强。
+该类别奖项的入围作品包括：由ActivisionPublishing，Inc.出品的CallofDuty：WarzoneMobile、由CopilotMoney，Inc出品的CopilotMoney、由MateusAbras出品的SmartGym，<cand>以及</cand>由PalmCourtLLC出品的Wavelength。
+出色互动类获奖作品侧重直观友好的界面和简洁易懂的操作。获奖的App和游戏分别是来自DevinDavies（新西兰）的Crouton和来自FloppyClub（丹麦）的Rytmos。Crouton界面简洁清晰，方便用户储存菜谱、创建购物清单，<cand>并</cand>在用户烹饪时显示步骤指导；在Rytmos中，玩家要用简单的拖拽手势打造通路、解开谜题，通过完成关卡来创造音乐。
+该类别奖项的入围作品包括：由TheBrowserCompanyofNewYorkInc出品的ArcSearch、由Seabaa，Inc.出品的finity、由Playdigious出品的LittleNightmares，<cand>以及</cand>由SavageInteractivePtyLtd出品的ProcreateDreams。
+社会影响类获奖作品聚焦重要议题并对用户生活产生积极影响。获奖的App和游戏分别是来自GentlerStories（斯洛文尼亚）的GentlerStreak和来自ThePixelHunt（法国）的TheWreck。GentlerStreak旨在改善每个人的生活方式，更多着眼于自我成长。<cand>比如</cand>App提供积极的提醒与启示，<cand>同时</cand>GentlerStreak智能整理健康数据，帮助用户追踪锻炼、休息和身体状况等。在视觉小说TheWreck中，玩家将化身为“作家Junon”，<cand>因</cand>一些原因被迫做出决定家庭命运走向的艰难选择。游戏以第一视角展现人生的压力时刻，<cand>让</cand>玩家更具沉浸感。
+该类别奖项的入围作品包括：由aheadSolutionsGmbH出品的Ahead：EmotionsCoach、由MagicFuelGames出品的Cityscapes：SimBuilder、由TheHowWeFeelProject，Inc.出品的HowWeFeel，<cand>以及</cand>由MucksGames出品的TheBear。
+视觉图像类获奖作品侧重用高品质的图像、界面和动画，表达独特主题。获奖的App和游戏分别是来自Things，Inc.（美国）的Rooms和来自NEOWIZ（韩国）的LiesofP。Rooms通过交互、音乐和视觉效果的平衡表达房间细节；冒险游戏LiesofP重构了经典童话故事。游戏画面和光效呈现较好，Mac上的MetalFXUpscaling和体积雾效果等视觉自定选项让玩家能自由地调整游戏呈现效果。
+该类别奖项的入围作品包括：由505Games（U.S。），Inc.出品的DEATHSTRANDINGDIRECTOR’SCUT、由COGNOSPHEREPTE.LTD.出品的Honkai：StarRail、由RhythmicWorks出品的Meditate，<cand>以及</cand>由NicolasMariniello出品的Sunlitt。
+空间计算类获奖作品侧重打造出独一无二的空间体验。获奖App和游戏分别是来自algoriddimGmbH（德国）的djay和来自ShapesandStories（美国）的Blackbox。djay提供了在空间环境中与音乐交互的全新方式，通过提供虚拟唱盘、互动效果面板以及一系列的混音环境等形式，<cand>以</cand>沉浸式体验和高解析音质让让用户发挥混音创意。AppleVisionPro上的Blackbox考验玩家的思维能力，游戏呈现出巨大空间画布上遍布谜题和彩蛋。
+该类别奖项的入围作品包括：由LoonaInc。出品的Loóna、由NBAMEDIAVENTURES，LLC出品的NBA、由FifthStarLabsLLC出品的SkyGuide，<cand>以及</cand>由KlugeStrategicInc.出品的SynthRiders。
+“看到众多开发者使用我们的技术创造杰出的App与游戏，<cand>并</cand>由此让用户的生活变得更好，我们倍受鼓舞。”Apple全球开发者关系副总裁SusanPrescott表示，“App能为人们带来力量与感动，今年的获奖者们便是最好的例证。我们<cand>也</cand>十分兴奋能在今年的WWDC大会上表彰他们的努力与创造。”

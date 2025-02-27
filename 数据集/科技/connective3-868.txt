@@ -1,0 +1,7 @@
+快科技6月3日消息，知名苹果爆料人马克·古尔曼（MarkGurman）在最新的《PowerOn》实时通讯中透露，苹果不会在WWDC24全球开发者大会上发布任何新硬件。
+作为参考，苹果在去年WWDC23上推出头显AppleVisionPro以及15英寸MacBookAir、新款MacStudio、新款MacPro等硬件产品。
+古尔曼称，除非苹果意外透露了稍后将推出的新设备，<cand>否则</cand>在WWDC24主题演讲中不会有硬件发布。
+这<cand>意味着</cand>iOS18、iPadOS18、macOS15等操作系统将是今年WWDC24的主角。
+作为苹果史上最重要的升级，iOS18升级重点之一是AI，爆料称苹果已经与谷歌、OpenAI和百度等公司就生成式人工智能合作进行了沟通和讨论。
+<cand>其中</cand>，百度将为苹果今年发布的国行版iPhone16、Mac系统和iOS18提供AI功能。
+古尔曼<cand>还</cand>总结了苹果将在iOS18推出的多项AI功能，包括自动生成表情符号、自动生成邮件/短信回复内容等。

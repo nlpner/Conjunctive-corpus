@@ -1,0 +1,9 @@
+【TechWeb】6月11日消息，据外媒报道，为期5年的苹果2024年度全球开发者大会，在当地时间周一拉开帷幕，在上午10点开始的主题演讲中，苹果宣布了各大产品线新一代的操作系统，iOS18、iPadOS18、macOSSequoia、watchOS11、visionOS2全部在大会上宣布。
+正如此前所预期的一样，人工智能是今年大会的一大焦点，在近105分钟的主题演讲中，有40多分钟的时间是在介绍AppleIntelligence，备受期待的OpenAI人工智能聊天机器人ChatGPT，<cand>也</cand>确定将会整合进iOS18等多款苹果新一代的操作系统中。
+在大会的主题演讲中，苹果负责软件工程的高级副总裁克雷格•费德里希在介绍AppleIntelligence时表示，有一些人工智能工具，在某些需要广博知识或专业特长的任务中非常有用，他们希望让用户在使用这些外部模型<cand>时</cand>，无需来回切换不同的工具，<cand>因此</cand>他们会将其全部融入用户的使用体验中，他们的着手点这一领域的翘楚，市场开拓者和领头羊，来自OpenAI的ChatGPT，将采用GPT-4o，已在Siri中建立支持，<cand>让</cand>它能借助ChatGPT的专长，随时<cand>为</cand>用户所用。
+在演讲中，费德里希<cand>还</cand>进一步透露，ChatGPT将集成在iOS18、iPadOS18和macOSSequoia中，今年稍晚推出，未来<cand>还</cand>将增加对其他AI模型的支持。
+<a>而</a>在官网上，苹果<a>也</a>宣布他们正在将ChatGPT整合进iOS18、iPadOS18和macOSSequoia的操作体验中，<cand>让</cand>用户能够直接使用ChatGPT的特殊功能，包括它对图像和文档的理解能力，<cand>为</cand>用户省去在不同工具间来回切换的麻烦。
+引入ChatGPT<a>虽然</a>能带来更多的体验，<a>但也</a>面临隐私方面的担忧。<cand>而</cand>在费德里希的演讲和苹果在官网公布的消息中，他们都重点提到了整合ChatGPT后的隐私保护。
+费德里希在演讲中提到，使用ChatGPT<cand>时</cand>，用户的请求和信息都不会被记录，何时使用ChatGPT都由用户掌控，分享任何信息之前<cand>也</cand>会先征询许可。
+在官网上，苹果提到，相应的隐私保护措施<cand>也</cand>已为使用ChatGPT的用户部署到位，用户的IP地址会被隐藏，发出的请求<cand>也</cand>不会保存在OpenAI的记录里。对于选择绑定已有账号的用户，则会适用ChatGPT的数据使用政策。
+作为ChatGPT的开发商，OpenAI<cand>也</cand>于当地时间周一，在官网宣布了同苹果合作的消息。他们在官网上表示同苹果合作，将ChatGPT整合进苹果的体验中，在今年晚些时候进入iOS、iPadOS和macOS。（海蓝）

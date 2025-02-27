@@ -1,0 +1,7 @@
+感谢IT之家网友华南吴彦祖的线索投递！
+IT之家6月5日消息，科技媒体WccFtech今天发布博文，表示英特尔计划今年10月以酷睿Ultra200系列品牌，推出代号为“ArrowLake”的下一代桌面CPU。
+该媒体跟进报道2024台北国际电脑展，采访了多家主板厂商负责人之后，获得了关于ArrowLake-S的下一代桌面CPU平台相关的信息，<cand>而且</cand>主板合作厂商已经为其准备好Z890芯片组的主板了。
+报道称英特尔计划9月召开发布会正式公布，ArrowLake桌面CPU将于10月上架零售。
+英特尔首席执行官帕特-盖尔辛格（PatGelsinger）今天证实，ArrowLakeCPU将首先登陆台式机平台，<cand>随后</cand>才是笔记本电脑芯片。
+IT之家注：ArrowLake桌面CPU的关键卖点是全新的LionCoveP-Cores和SkymontE-Cores，两者的IPC分别比前几代产品提升了14%和38%，与RaptorLakeCPU的内核相比提升幅度更大。
+另一个改进体现在功耗上，这些芯片的TDP将是RaptorLake的80%，这<cand>意味着</cand>它们不会像第14代产品那样激进。

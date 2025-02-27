@@ -1,0 +1,8 @@
+IT之家6月12日消息，苹果在WWDC2024上发布了备受瞩目的iOS18和macOS15系统，<cand>其中</cand>一项重要的新功能是“AppleIntelligence”——一套基于人工智能的工具集。该功能将于今年晚些时候正式上线，苹果软件工程主管CraigFederighi在接受FastCompany采访时透露了一些关于AppleIntelligence的未来发展计划。
+“AppleIntelligence”将赋予用户一系列实用的人工智能辅助功能，<cand>例如</cand>帮助用户改写文本、总结信息、生成图像甚至表情符号。<a>此外</a>，得益于人工智能的更新，Siri<a>也</a>将变得更加智能，能够理解屏幕内容的上下文，<cand>并</cand>允许用户控制设备的更多方面。
+值得一提的是，苹果“AppleIntelligence”采用了设备端和云端相结合的处理方式。<a>同时</a>，苹果<a>还</a>宣布与OpenAI达成合作，将旗下知名语言模型ChatGPT整合至Siri中。<cand>尽管</cand>苹果一直在致力于打造自有语言模型，Federighi<cand>也</cand>坦承市场上存在其他优秀的大型语言模型(LLM)。
+“这些前沿的超大规模语言模型拥有令人兴奋的能力，可以<cand>为</cand>用户带来更多便利的体验。我们相信将它们整合到苹果产品中，能够<cand>让</cand>用户更加方便地使用，”Federighi表示，GPT-4o是目前表现最为出色的LLM之一，这<cand>也</cand>是苹果选择将其整合至Siri的原因。
+<cand>为了</cand>保障用户隐私，当“AppleIntelligence”无法回答用户的提问<cand>时</cand>，Siri会征求用户同意，<cand>然后</cand>再将相关请求发送至ChatGPT进行处理。Federighi透露，苹果未来<cand>还</cand>计划加入对更多第三方语言模型的支持，<cand>使</cand>用户能够根据自身需求选择最合适的模型。
+中国市场是苹果最为重要的市场之一，Federighi表示苹果正在努力寻找将“AppleIntelligence”引入中国市场的方法，“<a>虽然</a>目前没有具体的时间表，<a>但</a>这肯定是我们想要做的。”“AppleIntelligence”初期将仅支持美国英语，尚不清楚其他地区的用户是否能够使用该功能。
+IT之家注意到，采访中，Federighi还谈及了其他与“AppleIntelligence”相关的话题。<cand>例如</cand>，部分用户请求会由苹果自有的名为“PrivateCloudCompute”的人工智能服务器进行处理。苹果开发了一种方法，可以在处理完数据请求之后对其进行加密销毁，<cand>从而</cand>确保用户隐私信息不被泄露。
+<a>虽然</a>Federighi期望未来的芯片能够运行更加庞大的语言模型，<a>但</a>他同时也强调，拥有在线模型仍然非常重要，<cand>因为</cand>它能够为用户提供最新的信息。“我并不排除这种可能性，”他说道，“<cand>但</cand>即便是在那样一个未来，我<cand>也</cand>认为设备在处理用户请求<cand>时</cand>，仍然会需要访问外部的知识库。<cand>因此</cand>，即使在可以完全离线处理的将来，与外部服务进行交互<cand>也</cand>将扮演着不可或缺的角色。”

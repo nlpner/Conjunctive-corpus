@@ -1,0 +1,10 @@
+快科技6月2日消息，台北电脑展2024的展前主题演讲上，NVIDIACEO黄仁勋宣布了下一代全新GPU、CPU架构，<cand>以及</cand>全新CPU+GPU二合一超级芯片，一直规划到了2027年。
+黄仁勋表示，NVIDIA将坚持数据中心规模、一年节奏、技术限制、一个架构的路线，<cand>也</cand>就是使用统一架构覆盖整个数据中心GPU产品线，<cand>并</cand>最新最强的制造工艺，每年更新迭代一次。
+NVIDIA现有的高性能GPU架构代号“Blackwell”，已经投产，相关产品今年陆续上市，包括用于HPC/AI领域的B200/GB200、用于游戏的RTX50系列。
+2025年将看到“BlackwellUltra”，自然是升级版本，<cand>但</cand>具体情况没有说。
+2026年就是全新的下一代“Rubin”，命名源于美国女天文学家VeraRubin(薇拉·鲁宾)，搭配下一代HBM4高带宽内存，8堆栈。
+根据曝料，Rubin架构首款产品为R100，采用台积电3nmEUV制造工艺，四重曝光技术，CoWoS-L封装，预计2025年第四季度投产。
+2027年则是升级版的“RubinUltra”，HBM4内存升级为12堆栈，容量更大，性能更高。
+CPU方面下代架构代号“Vera”——没错，用一个名字同时覆盖GPU、CPU，真正二合一。
+VeraCPU、RubinGPU组成新一代超级芯片也在规划之中，将采用第六代NVLink互连总线，带宽高达3.6TB/s。
+<a>此外</a>，NVIDIA<a>还</a>有新一代数据中心网卡CX9SuperNIC，最高带宽可达1600Gbps，<cand>也</cand>就是160万兆，<cand>并</cand>搭配新的InfiniBand/以太网交换机X1600。

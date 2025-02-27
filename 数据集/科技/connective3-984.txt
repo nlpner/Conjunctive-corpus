@@ -1,0 +1,10 @@
+感谢IT之家网友前Apple用户的线索投递！
+IT之家6月13日消息，采用英特尔芯片的Mac设备固然可以兼容升级苹果macOSSonoma系统，<cand>但是</cand>无法使用AppleIntelligence等一些功能。
+苹果公司宣布的所有AppleIntelligence功能都只能在搭载AppleSilicon处理器的Mac上使用，需要M1或更高版本的芯片。这<cand>意味着</cand>英特尔用户将无法跟随跃进，使用苹果的AI功能。
+苹果表示在macOSSequoia中，AppleNotes中实时音频转录的支持也仅限于AppleSilicon设备。
+实时音频转录是指在AppleNotes中记录音频会话，<cand>并</cand>生成实时音频转录，你可以搜索或与其他注释、核对表或合并文档。
+macOSSequoia通过iPhone镜像令连续互通体验更妙不可言，用户可以直接从Mac完全访问并控制iPhone。
+iPhone上的自定墙纸与图标会同步显示，用户<cand>还</cand>可以在主屏幕滑动切换页面、开启或浏览所有app。
+Mac的键盘、触控板和鼠标都能用于与iPhone互动，iPhone音频<cand>甚至</cand>能在Mac播放。用户<cand>还</cand>能在iPhone和Mac之间流畅地拖放文件。
+iPhone镜像期间，iPhone会保持锁定状态，<cand>因此</cand>其他人无法使用此iPhone或看到用户对iPhone的操作。
+iPhone在镜像时也能开启待机显示，用户一瞥就能获取信息。<a>此外</a>，用户<a>还</a>能直接在Mac上浏览并回复iPhone通知。

@@ -1,0 +1,5 @@
+快科技6月5日消息，MarkGurman爆料，苹果iOS18的AI路线图包含两部分，一部分是基础AI功能，这些功能将直接由iPhone内置的芯片来处理，不需要云端参与，所有适配iOS18的iPhone都将获得基础AI功能。
+另一部分则是更高级的AI功能，该功能依赖于云端服务器，苹果将在云计算服务器中部署高端芯片，用于处理苹果设备上最先进的AI任务，这些高阶AI功能仅适配iPhone15Pro和iPhone15ProMax。
+据悉，升级适配iOS18的设备<a>除了</a>前面提到的iPhone15Pro系列<a>外</a>，<a>还</a>包含iPhone15Plus、iPhone15、iPhone14系列、iPhone13系列、iPhone12系列、iPhone11系列、iPhoneXS、iPhoneXSMax、iPhoneXR、iPhoneSE2和iPhoneSE3等。
+值得注意的是，苹果正在重新设计Siri，工程师使用大语言模型LLM来重构Siri的底层算法，重构后的Siri将会更加智能。
+<cand>比如</cand>它可以了解用户的联系人、工作日程、方位等，<cand>以便</cand>作出更智能的响应；<cand>还</cand>可以将语音备忘录实时转写成文字版，能够总结通知、短信、网页、长篇文档等所有内容。
